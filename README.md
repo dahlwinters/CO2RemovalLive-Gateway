@@ -1,6 +1,6 @@
 # CO2RemovalLive-Gateway
 
-Gateway Android app for connecting a Sensirion CO2 sensor to AWS IoT Core through an Adafruit Bluefruit LE Feather M0. Based off the Adafruit Bluefruit LE Connect app, for use with Bluefruit Bluetooth LE modules and dev boards from Adafruit. The following is documentation for that app.
+Gateway Android app for connecting a Sensirion CO2 sensor to AWS IoT Core through an Adafruit Bluefruit LE Feather M0. Based off the [Adafruit Bluefruit LE Connect app](https://github.com/adafruit/Bluefruit_LE_Connect_Android_V2), for use with Bluefruit Bluetooth LE modules and dev boards from Adafruit. The following is documentation for that app.
 
 ## App Versions
 
