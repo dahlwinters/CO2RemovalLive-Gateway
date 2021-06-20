@@ -1,0 +1,23 @@
+{
+  "UserAgent": "MobileHub/1.0",
+  "Version": "1.0",
+  "CredentialsProvider": {
+    "CognitoIdentity": {
+      "Default": {
+        "PoolId": "us-XXXX-2:XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "Region": "us-XXXX-2"
+      }
+    }
+  },
+  "IdentityManager": {
+    "Default": {}
+  },
+  "CognitoUserPool": {
+    "Default": {
+      "PoolId": "us-XXXX-2_XXXXXXXXX",
+      "AppClientId": "XXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "AppClientSecret": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "Region": "us-XXXX-2"
+    }
+  }
+}
